@@ -1,1 +1,1 @@
-# DH-RSE-Summer-School-
+# DH&RSE Summer School
