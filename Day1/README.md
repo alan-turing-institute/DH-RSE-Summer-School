@@ -27,7 +27,7 @@ The day will be concluded by an RSE Story by **Giovanni Colavizza**, who will sh
 
 ## Presenters and Organisers
 
-This day is organised by [Turing REG](https://www.turing.ac.uk/work-turing/research/research-engineering), the [Humanities and Data Science Interest Group](https://www.turing.ac.uk/research/interest-groups/humanities-and-data-science) and the [Living with Machines](https://livingwithmachines.ac.uk/) team. 
+This day is organised by the Turing [Research Engineering Group](https://www.turing.ac.uk/work-turing/research/research-engineering), the [Humanities and Data Science Interest Group](https://www.turing.ac.uk/research/interest-groups/humanities-and-data-science) and the [Living with Machines](https://livingwithmachines.ac.uk/) team. 
 
 The speakers of the day are: 
 
