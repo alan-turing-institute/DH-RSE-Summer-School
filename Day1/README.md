@@ -31,7 +31,7 @@ This day is organised by [Turing REG](https://www.turing.ac.uk/work-turing/resea
 
 The speakers of the day are: 
 
-- Federico Nanni
+- **[Federico Nanni](https://www.turing.ac.uk/people/researchers/federico-nanni)** is a Research Data Scientist at The Alan Turing Institute, working as part of the Research Engineering Group. He is a historian by training and works exploring the intersections between digital humanities, computational social science, research software engineering and natural language processing.
 - Barbara McGillivray
 - Ruth Ahnert
 - David Beavan
