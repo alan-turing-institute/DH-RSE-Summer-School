@@ -1,7 +1,7 @@
 # Collaboration
 
 The first day of the Summer School will focus on how to work collaboratively. 
-We are going to focus on best practices and pathways to contribute to open-source projects, to review code and give each-other feedbacks.
+We are going to cover best practices and pathways to contribute to open-source projects, to review code and give each-other feedbacks.
 
 After a general introduction to the Summer School, the day will be kick off with a talk from **Barbara McGillivray** on her experience as the first researchers with a Humanities background working at The Alan Turing Institute, the UK national institute for data science and artificial intelligence.
 
