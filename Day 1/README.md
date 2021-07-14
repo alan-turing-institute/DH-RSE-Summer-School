@@ -33,7 +33,7 @@ The speakers of the day are:
 
 - **[Federico Nanni](https://www.turing.ac.uk/people/researchers/federico-nanni)** is a Research Data Scientist at The Alan Turing Institute, working as part of the Research Engineering Group. He is a historian by training and works exploring the intersections between digital humanities, computational social science, research software engineering and natural language processing.
 - Barbara McGillivray
-- Ruth Ahnert
+- Ruth Ahnert is a Professor of Literary History and Digital Humanities at Queen Mary University of London, and Principal Investigator on the Living with Machines Project at The Alan Turing Institute. Her background is in Early Modern English literature and book history, but over the last 10 years has been collaborating more and more with data scientists.
 - David Beavan
 - Kasra Hosseini
 - Mariona Coll Ardanuy
