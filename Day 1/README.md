@@ -35,6 +35,6 @@ The speakers of the day are:
 - Barbara McGillivray
 - **[Ruth Ahnert](https://www.turing.ac.uk/people/researchers/ruth-ahnert)** is a Professor of Literary History and Digital Humanities at Queen Mary University of London, and Principal Investigator on the Living with Machines Project at The Alan Turing Institute. Her background is in Early Modern English literature and book history, but over the last 10 years has been collaborating more and more with data scientists.
 - David Beavan
-- Kasra Hosseini
+- - **[Kasra Hosseini](https://www.turing.ac.uk/people/researchers/kasra-hosseini)** is a Research Data Scientist at The Alan Turing Institute. He is interested in (artificially) intelligent systems, machine learning, inverse theory, uncertainty estimation, and data analysis and visualisation.
 - Mariona Coll Ardanuy
 - Giovanni Colavizza
