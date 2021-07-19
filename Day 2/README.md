@@ -1,7 +1,5 @@
 #  Software Sustainability
 
-# Collaboration
-
 The second day of the Summer School will focus on how to make sustainable software. 
 We are going to cover best practices and pathways to build reusable open-source projects.
 
