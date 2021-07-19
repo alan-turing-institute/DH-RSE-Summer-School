@@ -36,4 +36,3 @@ The speakers of the day are:
 - **[Alexis Litvine](https://www.hist.cam.ac.uk/people/dr-alexis-litvine)** 
 - **[Mahmoud Abdelrazek](https://www.arch.cam.ac.uk/staff/mahmoud-abdelrazek)** 
 - **[Andrea Kocsis](https://www.heritage.arch.cam.ac.uk/people/Kocsis)** 
-- 
