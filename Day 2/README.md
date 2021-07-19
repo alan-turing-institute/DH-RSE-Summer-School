@@ -32,8 +32,8 @@ This day is organised by [Cambridge Digital Humanities](https://www.cdh.cam.ac.u
 
 The speakers of the day are: 
 
-- **[Mary Chester-Kadwell](https://www.cdh.cam.ac.uk/cdh/cdh-team/cdh-methods-fellows)** is a Senior Software Developer at Cambridge University Library and works on a variety of software for digital humanities research projects and the Library. She is also Digital Humanities Developer for CDH Lab, where she advises researchers on the technical aspects of their projects. Mary has a PhD in the landscape archaeology and material culture of early medieval England, which focussed on data-driven spatial analysis with GIS and the methodology of metal detecting. Mary is interested in the pedagogy of coding, and teaches text-mining and the programming language Python.
-- **[Alexis Litvine](https://www.hist.cam.ac.uk/people/dr-alexis-litvine)** is 
-- **[Mahmoud Abdelrazek](https://www.arch.cam.ac.uk/staff/mahmoud-abdelrazek)** is 
-- **[Andrea Kocsis](https://www.heritage.arch.cam.ac.uk/people/Kocsis)** is 
+- **[Mary Chester-Kadwell](https://www.cdh.cam.ac.uk/cdh/cdh-team/cdh-methods-fellows)** 
+- **[Alexis Litvine](https://www.hist.cam.ac.uk/people/dr-alexis-litvine)** 
+- **[Mahmoud Abdelrazek](https://www.arch.cam.ac.uk/staff/mahmoud-abdelrazek)** 
+- **[Andrea Kocsis](https://www.heritage.arch.cam.ac.uk/people/Kocsis)** 
 - 
