@@ -14,7 +14,7 @@ The after-lunch session is a long slog in front of a Zoom session, so we'll take
 
 Toward the end of the afternoon, Neil of KDL, will talk about the difficulties of implementing an SDLC with a diversity of project types.
 
-Finally, before wrap up with Edd Salkield speaking about his path into an RSE career, and the particular model that Dreaming Spires have followed.
+Finally, before wrap up, Edd Salkield will be speaking about his path into an RSE career, and the particular model that Dreaming Spires have followed.
 
 ## Schedule
 
