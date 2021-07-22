@@ -24,3 +24,15 @@ All in UK timezone (UTC/BST). This is a general overview, for more info see the 
 [Day 4](https://github.com/alan-turing-institute/DH-RSE-Summer-School/tree/main/Day%204) (29th of July) organised by [King's Digital Lab](https://kdl.kcl.ac.uk).
 
 [Day 5](https://github.com/alan-turing-institute/DH-RSE-Summer-School/tree/main/Day%205) (30th of July) organised by the Turing [Research Engineering Group](https://www.turing.ac.uk/work-turing/research/research-engineering), the [Humanities and Data Science Interest Group](https://www.turing.ac.uk/research/interest-groups/humanities-and-data-science) and the [Living with Machines](https://livingwithmachines.ac.uk/) team. 
+
+## General Info
+
+**Dates** 26 - 30 July 2021
+
+**Time** 10:00 - 17:00 UK time zone (BST)
+
+**Lead instructors**: Federico Nanni, Mary Chester-Kadwell, Neil Jakeman, Lucia Michelin, Barbara McGillivray
+
+**Sponsors**: The Alan Turing Institute
+
+**Contact**: Mishka Nemes (mnemes@turing.ac.uk) and Federico Nanni (fnanni@turing.ac.uk)
