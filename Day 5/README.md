@@ -25,7 +25,7 @@ The day will be concluded by an RSE Story by **Olivia Vane**, a data visualisati
 - 15:00 Using Historical Language Models on My Binder (Sarah Gibson, Kaspar Beelen and Federico Nanni)
 - 16.00 RSE Stories with Olivia Vane
 - 17.00 End of the summer school (Federico Nanni)
-- 
+ 
 ## Presenters and Organisers
 
 This day is organised by the Turing [Research Engineering Group](https://www.turing.ac.uk/work-turing/research/research-engineering), the [Humanities and Data Science Interest Group](https://www.turing.ac.uk/research/interest-groups/humanities-and-data-science) and the [Living with Machines](https://livingwithmachines.ac.uk/) team. 
