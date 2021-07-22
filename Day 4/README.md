@@ -26,7 +26,7 @@ Finally, before wrap up, Edd Salkield will be speaking about his path into an RS
 - 13:00 Exercises - Role play project planning
 - 14:20 Afternoon Break
 - 14:30 Dreaming Spires - Activity around design
-- 15:00 DH Reflections on problem projects with Nei Jakeman
+- 15:00 DH Reflections on problem projects with Neil Jakeman
 - 15:30 Iteration Activity
 - 16:00 RSE Stories - Edd Salkield, Dreaming Spires
 - 17:00 Wrap up
