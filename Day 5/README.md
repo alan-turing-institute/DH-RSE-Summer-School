@@ -1,10 +1,10 @@
 # DH&RSE: Present and Future
 
-The final day of the Summer School will focus on getting a broader view of the present and future of the community growing at the intersection of Digital Humanities & Research Software Engineering.
+After four days focused on specific topics and projects, the final day of the Summer School will focus on getting a broader view of the present and future of the community growing at the intersection of Digital Humanities & Research Software Engineering.
 
 After a general introduction, the day will be kick off with a talk from **David De Roure** on 
 
-Next, **Jane Winters** will 
+Next, **Jane Winters** will introduce the Digital Humanities research and teaching landscape in the UK, including both higher education and the cultural heritage sector. She will also briefly present some recent initiatives to develop cross-sectoral and transnational collaboration in the field.
 
 After the lunch break we are going to move to the more hands-on part of the day.
 In the afternoon, **Sarah Gibson, Kaspar Beelen and Federico Nanni** will present a collaborative activity focused on 
