@@ -1,4 +1,4 @@
-# Software Development Lifecycle
+# Software Development Life Cycle
 
 On the fourth day of the Summer School, we will look at processes to manage the development of RSE projects.
 
