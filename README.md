@@ -4,7 +4,9 @@ Welcome to the repository of the Digital Humanities & Research Software Engineer
 
 All participants should have received an email with details regarding how to join the talks, coding activities and discussion groups and our code of conduct. Here you can find the specific programme of each day, plus additional information on the tutorials.
 
-**Schedule** - same each day, all in UK timezone (UTC/BST)
+## Schedule
+
+All in UK timezone (UTC/BST). This is a general overview, for more info see the day to day programme linked below.
 
 | Time | Agenda item | Length | Mode of delivery |
 |------|--------|--------|------------------|
