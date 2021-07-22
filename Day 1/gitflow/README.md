@@ -69,13 +69,11 @@ First of all, decide who will be the **ADMIN** and who will be the **COLLABORATO
 9. **[COLLABORATOR]** Create a dedicated branch in the forked repo, from `develop` and name it following the convention described above, so issue number and short description, for instance `97-fix-ranking-doc`
 ![](https://i.imgur.com/nUVOAI9.png)
 
-(Optional) **[COLLABORATOR]** At this stage you should clone the forked version of the repo to your machine and checkout the branch on which you are planning to work on. We are not covering this in the tutorial, but feel free to do it if you have worked with GitHub before.
+(Optional) **[COLLABORATOR]** In a PR that involves modifications to the code, at this stage you would clone the forked version of the repo to your machine and checkout the branch on which you are planning to work on. We are not covering this in the tutorial, but feel free to do it if you have worked with GitHub before.
 
 10. **[COLLABORATOR]** Start working on the branch and make the first commit. Be clear in the description of the contribution of your commit.
 ![](https://i.imgur.com/T2uRlW0.png)
 ![](https://i.imgur.com/qlKXEMs.png)
-
-
 
 11. **[COLLABORATOR]** As soon as you have made the first commit, you will be able to open a pull request (PR).
 ![](https://i.imgur.com/xtLtOpI.png)
