@@ -1,10 +1,9 @@
 # MyBinder Tutorial
 
 ## First part: From Zero To Binder in Python (Sarah)
-Here's the [link](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-python.md) from The Turing Way [approximately 1 hour]
+Here's the [link](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-python.md) from The Turing Way 
 
-## Second part: Exercises on Using MyBinder with Historical Language Models (Fede and Kaspar)
-[approximately 1 hour]
+## Second part: Exercises with Historical Language Models (Fede and Kaspar)
 
 The goal is to use MyBinder in order to run the Jupyter Notebooks available in [this repo](https://github.com/Living-with-machines/histLM).
 
