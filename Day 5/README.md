@@ -2,7 +2,7 @@
 
 The final day of the Summer School will focus on getting a broader view of the present and future of the community growing at the intersection of Digital Humanities & Research Software Engineering.
 
-After a general introduction, the day will be kick off with a talk from **David DeRoure** on 
+After a general introduction, the day will be kick off with a talk from **David De Roure** on 
 
 Next, **Jane Winters** will 
 
