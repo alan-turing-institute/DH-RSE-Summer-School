@@ -7,7 +7,7 @@ Here's the [link](https://github.com/alan-turing-institute/the-turing-way/blob/m
 
 The goal is to use MyBinder in order to run the Jupyter Notebooks available in [this repo](https://github.com/Living-with-machines/histLM).
 
-### First Exercise: do the entire setup manually, to understand the process that would need to be automatised
+### 1.First Exercise: do the entire setup manually, to understand the process that would need to be automatised
 
 Manual operations, step by step
 
@@ -32,14 +32,14 @@ Note: As stated in [the documentation of the repo](https://github.com/Living-wit
 
 8. Run the code and see if it works fine
 
-### Second Exercise: automate the download using the configuration file
+### 2. Second Exercise: automate the download using the configuration file
 
 You can either use postBuild or starts - investigate the differences and select the one you think would work best.
 
-### Third Exercise: now do the same but with more than one model 
+### 3. Third Exercise: now do the same but with more than one model 
 
-### Fourth Exercise: prepare a markdown snippet
+### 4. Fourth Exercise: prepare a markdown snippet
 
 add the markdown snippet launchbinder
 
-### Optional: design a different solution for the Third Exercise to be able to have all models available on MyBinder
+### 5. Optional: design a different solution for the Third Exercise to be able to have all models available on MyBinder
