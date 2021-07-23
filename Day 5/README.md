@@ -4,12 +4,12 @@ After four days focused on specific topics and projects, the final day of the Su
 
 The day will be kick off with a talk from **Jane Winters** on the Digital Humanities research and teaching landscape in the UK, including both higher education and the cultural heritage sector. She will also briefly present some recent initiatives to develop cross-sectoral and transnational collaboration in the field.
 
-Next, **David De Roure** on the landscape of Research Software Engineers, focusing on arts, humanities and cultural heritage. The talk will also feature the Software Sustainability Institute and UKRI research and Innovation infrastructure activities in this area.
+Next, **David De Roure** will speak about the landscape of Research Software Engineers, focusing on arts, humanities and cultural heritage. The talk will also feature the Software Sustainability Institute and UKRI research and Innovation infrastructure activities in this area.
 
-Having seen many examples of projects that sit at the intersection of research software engineering and digital humanities during the summer school, you will have the chance of discussing with the speakers on how they foreseen this landscape changing in the next years.
+Having seen many examples of projects that sit at the intersection of research software engineering and digital humanities during the summer school, you will have now the chance of discussing with the speakers about how they foreseen this landscape changing in the next years.
 
 After the lunch break we are going to move to the more hands-on part of the day.
-In the afternoon, **Sarah Gibson, Kaspar Beelen and Federico Nanni** will present a collaborative activity focused on the use of Binder, an open source service that provides your code and the hardware and software to execute it. The project is supported by Google Cloud, OVH, GESIS Notebooks and The Alan Turing Institute. Together, we will experiment on how to adopt it to test a series of language models developed as part of the Living with Machines project.
+In the afternoon, **Sarah Gibson, Kaspar Beelen and Federico Nanni** will present a collaborative activity focused on the use of Binder, an open source service that provides your code and the hardware and software to execute it. The project is supported by Google Cloud, OVH, GESIS Notebooks and The Alan Turing Institute. Together, we will experiment on how to use it to run a series of historical language models developed as part of the Living with Machines project.
 
 The day will be concluded by an RSE Story by **Olivia Vane**, a data visualisation designer, engineer and researcher. Olivia works with large cultural datasets, for example digitised collections of paintings, photographs, artefacts, maps, and newspapers. She is a Research Software Engineer at the British Library and The Alan Turing Institute on the 'Living with Machines' research project. After a 15-minute overview of her career path, there will be a 45-minute discussion period so the audience can ask their own questions about Olivia's experience.
 
