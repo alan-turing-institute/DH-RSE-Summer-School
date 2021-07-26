@@ -8,11 +8,11 @@ Git Flow is a set of guidelines that people can follow when using version contro
 
 **Main branch (MAIN):** this is the branch for the official release of your code (and all future releases)
 
-**Development branch (DEV):** this is the central development branch, which integrates new features when these have been fully tested
+**Development branch (Develop):** this is the central development branch, which integrates new features when these have been fully tested
 
 **Issue**: an issue is a "thing" that needs to be addressed on the project (it could be a new feature to add or a bug to solve). Each issue is identified by a number. Remember that it is very important that issues are clearly focused on a specific and contained task and clearly described.
 
-**Feature branch:** this is a branch dedicated to address a specific issue, which will be merged to DEV through a pull request. Be consistent with naming the feature branches, a common and simple pratice is the following, which comprises the number of the addressed issue and a short description:
+**Feature branch:** this is a branch dedicated to address a specific issue, which will be merged to Develop through a pull request. Be consistent with naming the feature branches, a common and simple pratice is the following, which comprises the number of the addressed issue and a short description:
 
 ![](https://i.imgur.com/faPwmZt.png)
 
