@@ -79,7 +79,8 @@ First of all, decide who will be the **ADMIN** and who will be the **COLLABORATO
 ![](https://i.imgur.com/xtLtOpI.png)
 
 12. **[COLLABORATOR]** When opening the PR, make sure you are choosing the correct repository (the forked one, not the original one!!)
-![](https://i.imgur.com/QqiGWEx.png)
+<img width="1416" alt="68747470733a2f2f692e696d6775722e636f6d2f517169475745782e706e67" src="https://user-images.githubusercontent.com/8415204/126999078-23eb2857-4371-47c3-90ad-efd49ad544ab.png">
+
 This is what you should see when you select the correct repo and branch.
 ![](https://i.imgur.com/yzsL6ZD.png)
 
