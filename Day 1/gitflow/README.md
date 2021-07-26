@@ -69,7 +69,7 @@ First of all, decide who will be the **ADMIN** and who will be the **COLLABORATO
 9. **[COLLABORATOR]** Create a dedicated branch in the forked repo, from `develop` and name it following the convention described above, so issue number and short description, for instance `97-fix-ranking-doc`
 ![](https://i.imgur.com/nUVOAI9.png)
 
-(Optional) **[COLLABORATOR]** In a PR that involves modifications to the code, at this stage you would clone the forked version of the repo to your machine and checkout the branch on which you are planning to work on. We are not covering this in the tutorial, but feel free to do it if you have worked with GitHub before.
+(Optional) **[COLLABORATOR]** In a PR that involves modifications to the code, at this stage you would clone the forked version of the repo to your machine and checkout the branch on which you are planning to work on. We are not covering this in the tutorial, but feel free to do it if you have worked with GitHub before. Just remember [to follow the instructions](https://github.com/Living-with-machines/DeezyMatch#installation) to install DeezyMatch from the source code, not from PyPi.
 
 10. **[COLLABORATOR]** Start working on the branch and make the first commit. Be clear in the description of the contribution of your commit.
 ![](https://i.imgur.com/T2uRlW0.png)
