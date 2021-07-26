@@ -16,13 +16,13 @@ The day will be concluded by an RSE Story by **Mary Chester-Kadwell**, who will 
 
 ## Schedule
 
-- 10.00 Intro and overview (Mary Chester-Kadwell)
+- 10.00 Intro and Overview (Mary Chester-Kadwell)
 - 10.10 Talk: THOTH: Transcribing Historical Objects with Tabulated Handwriting (Dr Alexis Litvine, Faculty of History, University of Cambridge)
 - 10.50 Talk: MAEASaM: Mapping Africa’s Endangered Archaeological Sites and Monuments (Mahmoud Abdelrazek, McDonald Institute for Archaeological Research, University of Cambridge)
 - 11:30 Short break
-- 11:40 Introduction to software sustainability (Mary Chester-Kadwell)
+- 11:40 Introduction to Software Sustainability (Mary Chester-Kadwell)
 - 12:15 Lunch
-- 13:15 Coding activity (Mary Chester-Kadwell and Andrea Kocsis)
+- 13:15 Coding Activity: Practical Coding for Sustainability (Mary Chester-Kadwell and Andrea Kocsis)
 - 16.00 RSE Stories with Mary Chester-Kadwell and Mahmoud Abdelrazek
 - 17.00 End of the day
 
