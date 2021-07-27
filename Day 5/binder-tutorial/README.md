@@ -36,10 +36,14 @@ Note: As stated in [the documentation of the repo](https://github.com/Living-wit
 
 You can either use postBuild or starts - investigate the differences and select the one you think would work best.
 
-### 3. Third Exercise: now do the same but with more than one model 
+### 3. Third Exercise: prepare a markdown snippet
 
-### 4. Fourth Exercise: prepare a markdown snippet
+Add the markdown snippet launchbinder
 
-add the markdown snippet launchbinder
+### 3. Fourth Exercise: now do the same as in 2, but with more than one model 
 
-### 5. Optional: design a different solution for the Third Exercise to be able to have all models available on MyBinder
+It might (probably will) crash here. Why? Try to investigate the reasons.
+
+### 5. Optional: design a different solution for 4, to be able to have all models available on MyBinder
+
+Note that we are not sure a good solution exists here - it's more a space to collaboratively brainstorming around possible solutions
