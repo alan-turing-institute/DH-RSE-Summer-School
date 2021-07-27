@@ -42,7 +42,7 @@ Add the markdown snippet `launchbinder`
 
 ### 4. Fourth Exercise: now do the same as in 2, but with more than one model 
 
-It might (probably will) crash here. Why? Try to investigate the reasons.
+It might (ehm, will) crash here. Why? Try to investigate the reasons.
 
 ### 5. Optional: design a different solution for 4, to be able to have all models available on MyBinder
 
