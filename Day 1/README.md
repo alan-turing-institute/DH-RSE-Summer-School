@@ -3,7 +3,7 @@
 The first day of the Summer School will focus on how to work collaboratively. 
 We are going to cover best practices and pathways to contribute to open-source projects, to review code and give each-other feedbacks.
 
-After a general introduction to the Summer School, the day will be kick off with a talk from **Barbara McGillivray** on her experience as the first researcher with a Humanities background working at The Alan Turing Institute, the UK national institute for data science and artificial intelligence. [Slides](https://drive.google.com/file/d/163q5hIvEp6d8-AwwVbqqJsyfoOpBcGmR/view?usp=sharing)
+After a general introduction to the Summer School, the day will be kick off with a talk from **Barbara McGillivray** on her experience as the first researcher with a Humanities background working at The Alan Turing Institute, the UK national institute for data science and artificial intelligence. [[Slides](https://drive.google.com/file/d/163q5hIvEp6d8-AwwVbqqJsyfoOpBcGmR/view?usp=sharing)]
 
 Next, **Ruth Ahnert and David Beavan** will present their experience on working together on the Living with Machines project, a large-scale collaboration between historians, data scientists, geographers, computational linguists, software engineers and curators have been brought together to examine the human impact of industrial revolution. This programme, funded by the UK Research and Innovation (UKRI) Strategic Priority Fund, is a multidisciplinary collaboration delivered by the Arts and Humanities Research Council (AHRC), with The Alan Turing Institute, the British Library and the Universities of Cambridge, East Anglia, Exeter, and Queen Mary University of London. 
 
