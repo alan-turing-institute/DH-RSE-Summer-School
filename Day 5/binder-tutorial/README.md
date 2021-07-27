@@ -38,9 +38,9 @@ You can either use postBuild or starts - investigate the differences and select 
 
 ### 3. Third Exercise: prepare a markdown snippet
 
-Add the markdown snippet launchbinder
+Add the markdown snippet `launchbinder`
 
-### 3. Fourth Exercise: now do the same as in 2, but with more than one model 
+### 4. Fourth Exercise: now do the same as in 2, but with more than one model 
 
 It might (probably will) crash here. Why? Try to investigate the reasons.
 
