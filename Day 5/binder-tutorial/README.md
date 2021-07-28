@@ -26,9 +26,9 @@ Note: As stated in [the documentation of the repo](https://github.com/Living-wit
 
 5. Make the needed directory 
 
-6. [Download the model](https://zenodo.org/record/4782245#.YQEyYFNKjlx) (we suggest to use Flair) inside the directory 
+6. [Download the model](https://zenodo.org/record/4782245#.YQEyYFNKjlx) inside the directory (we suggest to use Flair) 
 
-7. Unzip them
+7. Unzip it
 
 8. Run the code and see if it works fine
 
@@ -38,11 +38,11 @@ You can either use postBuild or starts - investigate the differences and select 
 
 ### 3. Third Exercise: prepare a markdown snippet
 
-Add the markdown snippet `launchbinder`
+Add the markdown snippet `launchbinder` to your forked version
 
 ### 4. Fourth Exercise: now do the same as in 2, but with more than one model 
 
-It might (ehm, will) crash here. Why? Try to investigate the reasons.
+It might (ehm, will) crash here. Why? Try to investigate the reason.
 
 ### 5. Optional: design a different solution for 4, to be able to have all models available on MyBinder
 
