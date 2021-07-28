@@ -26,7 +26,7 @@ Note: As stated in [the documentation of the repo](https://github.com/Living-wit
 
 5. Make the needed directory 
 
-6. Download the models inside the directory 
+6. [Download the model](https://zenodo.org/record/4782245#.YQEyYFNKjlx) (we suggest to use Flair) inside the directory 
 
 7. Unzip them
 
