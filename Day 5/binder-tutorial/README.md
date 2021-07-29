@@ -1,7 +1,7 @@
 # MyBinder Tutorial
 
 ## First part: From Zero To Binder in Python (Sarah)
-Here's the [link](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-python.md) from The Turing Way 
+Here's the [link](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-python.md) to the tutorial from The Turing Way 
 
 ## Second part: Exercises with Historical Language Models (Fede and Kaspar)
 
